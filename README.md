@@ -158,3 +158,11 @@ Business Insights
      ↓
 Recommendations
 ---
+
+## 👨‍💻 Author
+
+**Satender**
+
+Aspiring Data Analyst
+
+🔗 GitHub: [@satendeer](https://github.com/satendeer)
